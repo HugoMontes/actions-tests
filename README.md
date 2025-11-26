@@ -1,1 +1,1 @@
-Hola desde la clase de GitHub Actions
+Hola desde la clase de GitHub Action
